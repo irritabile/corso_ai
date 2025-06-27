@@ -1,2 +1,2 @@
 # corso_ai
-Prova
+Ci riproviamo
